@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /feed/
+Disallow: */feed
+Disallow: /*utm_*
+Disallow: /wp-json/
+Disallow: /embed/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.datarobot.com/sitemap.xml
